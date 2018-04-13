@@ -7,7 +7,7 @@ import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Button button,button2,button3,button4;
+    private Button button,button2;
     private ImageView imageView;
 
 
